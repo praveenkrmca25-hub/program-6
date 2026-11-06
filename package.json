@@ -1,0 +1,12 @@
+{
+  "name": "program-6",
+  "version": "1.0.0",
+  "description": "A small Express app for the Docker CI pipeline practical",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
